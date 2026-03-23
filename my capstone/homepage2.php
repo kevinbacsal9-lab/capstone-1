@@ -344,7 +344,7 @@ if (!isset($_SESSION['user_id'])) {
   <div class="size">
     <h2>Welcome, <?php echo $_SESSION['email']; ?> 🎉</h2>
   </div>
-<a href="logout.php">Logouts</a>
+<a href="logout.php">Logout</a>
 </header>
 
 <section class="hero">
